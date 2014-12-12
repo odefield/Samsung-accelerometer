@@ -3,7 +3,8 @@ Samsung-accelerometer
 
 Coursera: Getting and Cleaning Data Course Project 2014 with Galaxy S accelerometer data
 
-TODO-list
+TODO-list:
+
  You should create one R script called run_analysis.R that does the following. 
 
     Merges the training and the test sets to create one data set.
